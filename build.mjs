@@ -8,7 +8,7 @@ const commonConfig = {
   bundle: true,
   platform: "neutral",
   minify: true,
-  sourcemap: true,
+  sourcemap: false,
   logLevel: "info",
 };
 
