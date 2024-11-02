@@ -35,7 +35,6 @@
     "dev": "node build.js --watch",
     "test": "vitest run --coverage",
     "test:watch": "vitest watch",
-    "lint": "eslint src/**/*.ts",
     "format": "prettier --write src/**/*.ts"
   },
   "devDependencies": {
@@ -48,7 +47,6 @@
     "@types/node": "^22.8.6",
     "@vitest/coverage-v8": "^2.1.4",
     "esbuild": "^0.24.0",
-    "eslint": "^9.14.0",
     "typescript": "^5.6.3",
     "vitest": "^2.1.4"
   },

@@ -52,7 +52,7 @@ pluralize("test", 5, true); //=> "5 tests"
 ### CommonJS
 
 ```typescript
-const pluralize = require("pluralize-ts").default;
+const pluralize = require("@theothergothamdev/pluralize-ts").default;
 ```
 
 ### API
