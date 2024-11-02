@@ -1,6 +1,6 @@
 {
   "name": "@theothergothamdev/pluralize-ts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Pluralize and singularize any word",
   "license": "MIT",
   "repository": "https://github.com/theothergothamdev/pluralize-ts",
