@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/theothergothamdev/pluralize-ts/compare/v1.0.0...v1.0.1) (2024-11-02)
+
+
+### Bug Fixes
+
+* Version bump ([9a10f75](https://github.com/theothergothamdev/pluralize-ts/commit/9a10f7554be8d9169dfc6fdf23750aadd76a533f))
+
 # 1.0.0 (2024-11-02)
 
 
