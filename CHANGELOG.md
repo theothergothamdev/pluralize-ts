@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/theothergothamdev/pluralize-ts/compare/v1.0.1...v1.1.0) (2024-11-02)
+
+
+### Features
+
+* Remove source maps ([a62be45](https://github.com/theothergothamdev/pluralize-ts/commit/a62be4529b73046db5f7c4fd3b92dce0b67891c3))
+
 ## [1.0.1](https://github.com/theothergothamdev/pluralize-ts/compare/v1.0.0...v1.0.1) (2024-11-02)
 
 
