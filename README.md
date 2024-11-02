@@ -6,6 +6,7 @@
 [![NPM downloads](https://img.shields.io/npm/dm/@theothergothamdev/pluralize-ts.svg)](https://www.npmjs.com/package/@theothergothamdev/pluralize-ts)
 
 ![build](https://github.com/theothergothamdev/pluralize-ts/actions/workflows/build.yml/badge.svg)
+[![codecov](https://codecov.io/github/theothergothamdev/pluralize-ts/graph/badge.svg?token=XN7LB2SEYL)](https://codecov.io/github/theothergothamdev/pluralize-ts)
 
 <!-- [END badges] -->
 
